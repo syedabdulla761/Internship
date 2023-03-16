@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,14 +9,16 @@ namespace MyFirstApp
 {
     class trialClass
     {
-        public int l { get; set; }
-        public int h { get; set; }
-        public int w { get; set; }
-        public int v { get; set; }
+        int[] nums = new int[10] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+        Dictionary<int, int> map = new Dictionary<int, int>();
+        int target = 21;
+        public void write()
+        { 
+            for(int i=0;i<nums.Length;i++){
+                map[nums[i]]=i;
+            }
 
-        public void displayinfo()
-        {
-            Console.WriteLine("Length is {0}, height is {1}, width is {2}, volume is {3}",l,h,w,v=l*h*w);
+            Console.WriteLine(map.ContainsKey(target - nums[0]));
         }
     }
 }

@@ -1,0 +1,33 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #2B2146;
+    color:white;
+}
+table td {
+  color: white;
+}
+
+header {
+    background-color: #800020;
+    color: aliceblue;
+}
+
+table th {
+    color: #808080;
+}
+
