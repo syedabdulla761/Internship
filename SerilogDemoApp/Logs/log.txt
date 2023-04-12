@@ -1,0 +1,174 @@
+04/12/2023 22:00:30 Application Starting Up
+04/12/2023 22:00:32 You requested access to index
+04/12/2023 22:00:32 The value of i is 0
+04/12/2023 22:00:32 The value of i is 1
+04/12/2023 22:00:32 The value of i is 2
+04/12/2023 22:00:32 The value of i is 3
+04/12/2023 22:00:32 The value of i is 4
+04/12/2023 22:00:32 The value of i is 5
+04/12/2023 22:00:32 The value of i is 6
+04/12/2023 22:00:32 The value of i is 7
+04/12/2023 22:00:32 The value of i is 8
+04/12/2023 22:00:32 The value of i is 9
+04/12/2023 22:00:32 The value of i is 10
+04/12/2023 22:00:32 The value of i is 11
+04/12/2023 22:00:32 The value of i is 12
+04/12/2023 22:00:32 The value of i is 13
+04/12/2023 22:00:32 The value of i is 14
+04/12/2023 22:00:32 The value of i is 15
+04/12/2023 22:00:32 The value of i is 16
+04/12/2023 22:00:32 The value of i is 17
+04/12/2023 22:00:32 The value of i is 18
+04/12/2023 22:00:32 The value of i is 19
+04/12/2023 22:00:32 The value of i is 20
+04/12/2023 22:00:32 The value of i is 21
+04/12/2023 22:00:32 The value of i is 22
+04/12/2023 22:00:32 Exception caught: "System.Exception: Number is greater than 22 ,it is 23
+   at SerilogDemo.Pages.IndexModel.OnGet() in C:\Users\syed.abdulla\source\repos\SerilogDemoApp\SerilogDemo\Pages\Index.cshtml.cs:line 27"
+04/12/2023 22:00:32 HTTP "GET" "/" responded 200 in 532.9629 ms
+04/12/2023 22:02:47 Application Starting Up
+04/12/2023 22:02:48 You requested access to index
+04/12/2023 22:02:48 The value of i is 0
+04/12/2023 22:02:48 The value of i is 1
+04/12/2023 22:02:48 The value of i is 2
+04/12/2023 22:02:48 The value of i is 3
+04/12/2023 22:02:48 The value of i is 4
+04/12/2023 22:02:48 The value of i is 5
+04/12/2023 22:02:48 The value of i is 6
+04/12/2023 22:02:48 The value of i is 7
+04/12/2023 22:02:48 The value of i is 8
+04/12/2023 22:02:48 The value of i is 9
+04/12/2023 22:02:48 The value of i is 10
+04/12/2023 22:02:48 The value of i is 11
+04/12/2023 22:02:48 The value of i is 12
+04/12/2023 22:02:48 The value of i is 13
+04/12/2023 22:02:48 The value of i is 14
+04/12/2023 22:02:48 The value of i is 15
+04/12/2023 22:02:48 The value of i is 16
+04/12/2023 22:02:48 The value of i is 17
+04/12/2023 22:02:48 The value of i is 18
+04/12/2023 22:02:48 The value of i is 19
+04/12/2023 22:02:48 The value of i is 20
+04/12/2023 22:02:48 The value of i is 21
+04/12/2023 22:02:48 The value of i is 22
+04/12/2023 22:02:48 Exception caught: "System.Exception: Number is greater than 22 ,it is 23
+   at SerilogDemo.Pages.IndexModel.OnGet() in C:\Users\syed.abdulla\source\repos\SerilogDemoApp\SerilogDemo\Pages\Index.cshtml.cs:line 27"
+04/12/2023 22:02:48 HTTP "GET" "/" responded 200 in 257.3394 ms
+04/12/2023 22:04:24 Application Starting Up
+04/12/2023 22:04:25 You requested access to index
+04/12/2023 22:04:25 The value of i is 0
+04/12/2023 22:04:25 The value of i is 1
+04/12/2023 22:04:25 The value of i is 2
+04/12/2023 22:04:25 The value of i is 3
+04/12/2023 22:04:25 The value of i is 4
+04/12/2023 22:04:25 The value of i is 5
+04/12/2023 22:04:25 The value of i is 6
+04/12/2023 22:04:25 The value of i is 7
+04/12/2023 22:04:25 The value of i is 8
+04/12/2023 22:04:25 The value of i is 9
+04/12/2023 22:04:25 The value of i is 10
+04/12/2023 22:04:25 The value of i is 11
+04/12/2023 22:04:25 The value of i is 12
+04/12/2023 22:04:25 The value of i is 13
+04/12/2023 22:04:25 The value of i is 14
+04/12/2023 22:04:25 The value of i is 15
+04/12/2023 22:04:25 The value of i is 16
+04/12/2023 22:04:25 The value of i is 17
+04/12/2023 22:04:25 The value of i is 18
+04/12/2023 22:04:25 The value of i is 19
+04/12/2023 22:04:25 The value of i is 20
+04/12/2023 22:04:25 The value of i is 21
+04/12/2023 22:04:25 The value of i is 22
+04/12/2023 22:04:25 Exception caught: "System.Exception: Number is greater than 22 ,it is 23
+   at SerilogDemo.Pages.IndexModel.OnGet() in C:\Users\syed.abdulla\source\repos\SerilogDemoApp\SerilogDemo\Pages\Index.cshtml.cs:line 27"
+04/12/2023 22:04:25 HTTP "GET" "/" responded 200 in 260.4465 ms
+04/12/2023 22:14:50 Application Starting Up
+04/12/2023 22:14:51 You requested access to index
+04/12/2023 22:14:51 The value of i is 0
+04/12/2023 22:14:51 The value of i is 1
+04/12/2023 22:14:51 The value of i is 2
+04/12/2023 22:14:51 The value of i is 3
+04/12/2023 22:14:51 The value of i is 4
+04/12/2023 22:14:51 The value of i is 5
+04/12/2023 22:14:51 The value of i is 6
+04/12/2023 22:14:51 The value of i is 7
+04/12/2023 22:14:51 The value of i is 8
+04/12/2023 22:14:51 The value of i is 9
+04/12/2023 22:14:51 The value of i is 10
+04/12/2023 22:14:51 The value of i is 11
+04/12/2023 22:14:51 The value of i is 12
+04/12/2023 22:14:51 The value of i is 13
+04/12/2023 22:14:51 The value of i is 14
+04/12/2023 22:14:51 The value of i is 15
+04/12/2023 22:14:51 The value of i is 16
+04/12/2023 22:14:51 The value of i is 17
+04/12/2023 22:14:51 The value of i is 18
+04/12/2023 22:14:51 The value of i is 19
+04/12/2023 22:14:51 The value of i is 20
+04/12/2023 22:14:51 The value of i is 21
+04/12/2023 22:14:51 The value of i is 22
+04/12/2023 22:14:51 Exception caught: "System.Exception: Number is greater than 22 ,it is 23
+   at SerilogDemo.Pages.IndexModel.OnGet() in C:\Users\syed.abdulla\source\repos\SerilogDemoApp\SerilogDemo\Pages\Index.cshtml.cs:line 27"
+04/12/2023 22:14:51 HTTP "GET" "/" responded 200 in 322.2326 ms
+04/13/2023 00:07:27 Application Starting Up
+04/13/2023 00:07:29 You requested access to index
+04/13/2023 00:07:29 The value of i is 0
+04/13/2023 00:07:29 The value of i is 1
+04/13/2023 00:07:29 The value of i is 2
+04/13/2023 00:07:29 The value of i is 3
+04/13/2023 00:07:29 The value of i is 4
+04/13/2023 00:07:29 The value of i is 5
+04/13/2023 00:07:29 The value of i is 6
+04/13/2023 00:07:29 The value of i is 7
+04/13/2023 00:07:29 The value of i is 8
+04/13/2023 00:07:29 The value of i is 9
+04/13/2023 00:07:29 The value of i is 10
+04/13/2023 00:07:29 The value of i is 11
+04/13/2023 00:07:29 The value of i is 12
+04/13/2023 00:07:29 The value of i is 13
+04/13/2023 00:07:29 The value of i is 14
+04/13/2023 00:07:29 The value of i is 15
+04/13/2023 00:07:29 The value of i is 16
+04/13/2023 00:07:29 The value of i is 17
+04/13/2023 00:07:29 The value of i is 18
+04/13/2023 00:07:29 The value of i is 19
+04/13/2023 00:07:29 The value of i is 20
+04/13/2023 00:07:29 The value of i is 21
+04/13/2023 00:07:29 The value of i is 22
+04/13/2023 00:07:29 Exception caught: "System.Exception: Number is greater than 22 ,it is 23
+   at SerilogDemo.Pages.IndexModel.OnGet() in C:\Users\syed.abdulla\source\repos\SerilogDemoApp\SerilogDemo\Pages\Index.cshtml.cs:line 27"
+04/13/2023 00:07:30 HTTP "GET" "/" responded 200 in 1044.6427 ms
+04/13/2023 00:07:30 HTTP "GET" "/SerilogDemo.styles.css" responded 304 in 30.6813 ms
+04/13/2023 00:07:30 HTTP "GET" "/css/site.css" responded 304 in 30.6915 ms
+04/13/2023 00:07:30 HTTP "GET" "/lib/bootstrap/dist/css/bootstrap.min.css" responded 304 in 30.6916 ms
+04/13/2023 00:07:31 HTTP "GET" "/lib/jquery/dist/jquery.min.js" responded 304 in 10.0061 ms
+04/13/2023 00:07:31 HTTP "GET" "/js/site.js" responded 304 in 13.0098 ms
+04/13/2023 00:07:31 HTTP "GET" "/lib/bootstrap/dist/js/bootstrap.bundle.min.js" responded 304 in 0.7238 ms
+04/13/2023 00:09:24 Application Starting Up
+04/13/2023 00:09:25 You requested access to index
+04/13/2023 00:09:25 The value of i is 0
+04/13/2023 00:09:25 The value of i is 1
+04/13/2023 00:09:25 The value of i is 2
+04/13/2023 00:09:25 The value of i is 3
+04/13/2023 00:09:25 The value of i is 4
+04/13/2023 00:09:25 The value of i is 5
+04/13/2023 00:09:25 The value of i is 6
+04/13/2023 00:09:25 The value of i is 7
+04/13/2023 00:09:25 The value of i is 8
+04/13/2023 00:09:25 The value of i is 9
+04/13/2023 00:09:25 The value of i is 10
+04/13/2023 00:09:25 The value of i is 11
+04/13/2023 00:09:25 The value of i is 12
+04/13/2023 00:09:25 The value of i is 13
+04/13/2023 00:09:25 The value of i is 14
+04/13/2023 00:09:25 The value of i is 15
+04/13/2023 00:09:25 The value of i is 16
+04/13/2023 00:09:25 The value of i is 17
+04/13/2023 00:09:25 The value of i is 18
+04/13/2023 00:09:25 The value of i is 19
+04/13/2023 00:09:25 The value of i is 20
+04/13/2023 00:09:25 The value of i is 21
+04/13/2023 00:09:25 The value of i is 22
+04/13/2023 00:09:26 Exception caught: "System.Exception: Number is greater than 22 ,it is 23
+   at SerilogDemo.Pages.IndexModel.OnGet() in C:\Users\syed.abdulla\source\repos\SerilogDemoApp\SerilogDemo\Pages\Index.cshtml.cs:line 27"
+04/13/2023 00:09:26 HTTP "GET" "/" responded 200 in 671.1212 ms
